@@ -6,4 +6,4 @@ We encourage you to access our:
 - [Website](https://ticha.haverford.edu)
 - [Mission Statement](https://github.com/ticha-zapotec/playbook/blob/main/mission-statement.md)
 - [Core Values](https://github.com/ticha-zapotec/playbook/blob/main/core-values.md) and
-- [Design Principles](https://github.com/ticha-zapotec/playbook/blob/main/design-principles.md).
+- [Design Principles](https://github.com/ticha-zapotec/playbook/blob/main/design-principles.md)
